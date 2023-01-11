@@ -9,4 +9,9 @@ class GenClass
     {
         echo __FUNCTION__;
     }
+
+    public function test()
+    {
+        echo 'test';
+    }
 }
