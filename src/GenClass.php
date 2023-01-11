@@ -14,4 +14,9 @@ class GenClass
     {
         echo 'test';
     }
+
+    public function test2()
+    {
+        echo 'test2';
+    } 
 }
